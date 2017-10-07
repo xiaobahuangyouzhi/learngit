@@ -3,5 +3,9 @@ Git is free software disributed under the GPL.
 Git has a mutable index called stage.
 Git tracks changes of files.
 123321321
+<<<<<<< HEAD
 qweewq
-hyzlh
+hyz
+=======
+hyzznb
+>>>>>>> 3
